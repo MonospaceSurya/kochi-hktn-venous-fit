@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 # Set your API key here (replace with your actual path)
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDm4_MxyCOzycokC2LHuqE9fUeIn-3fL6E"
+os.environ["GOOGLE_API_KEY"] = ""
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # Set path to your PDF file - UPDATE THIS PATH
