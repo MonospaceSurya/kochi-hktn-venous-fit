@@ -1,4 +1,4 @@
-# Gemini AI Chatbot
+# Venous Fit Gemini AI Chatbot
 **Demo Link:** [Website Demo](https://whale-app-htuk7.ondigitalocean.app/)
 <img src="static/images/demo.gif" alt="Demo GIF" width="700"/>
 
